@@ -1,0 +1,201 @@
+version: 5.1.0
+variant: default
+logo: /img/logo.svg
+head:
+    favicon: /img/favicon.svg
+    manifest:
+        name:  Alisson Desandro Bovenzo
+        short_name: Bovenzo
+        start_url: 
+        theme_color: 
+        background_color: 
+        display: standalone
+        icons:
+            -
+                src: ''
+                sizes: ''
+                type: 
+    open_graph:
+        title: Bovenzo | Simplificando soluções tecnológicas
+        type: blog
+        url: 
+        image: 
+        site_name: alissonbovenzo.github.io
+        author: Alisson Desandro Bovenzo
+        description: 
+        twitter_card: 
+        twitter_id: 
+        twitter_site: 
+        google_plus: 
+        fb_admins: 
+        fb_app_id: 
+    structured_data:
+        title: 
+        description: 
+        url: 
+        author: "Alisson Desandro Bovenzo"
+        publisher: 
+        publisher_logo: 
+        image: 
+    meta:
+        - ''
+    rss: /rss
+navbar:
+    menu:
+        Home: /
+        Arquivos: /arquivos
+        Categorias: /categorias
+        Tags: /tags
+        Sobre nós: /sobre
+    # links:
+        # Download on GitHub:
+            # icon: fab fa-github
+            # url: https://github.com/ppoffice/hexo-theme-icarus
+# footer:
+    # links:
+    #     Creative Commons:
+    #         icon: fab fa-creative-commons
+    #         url: https://creativecommons.org/
+    #     Attribution 4.0 International:
+    #         icon: fab fa-creative-commons-by
+    #         url: https://creativecommons.org/licenses/by/4.0/
+    #     Download on GitHub:
+    #         icon: fab fa-github
+    #         url: https://github.com/ppoffice/hexo-theme-icarus
+article:
+    highlight:
+        theme: atom-one-light
+        clipboard: true
+        fold: unfolded
+    readtime: true
+    update_time: true
+    licenses:
+        Creative Commons:
+            icon: fab fa-creative-commons
+            url: https://creativecommons.org/
+        Attribution:
+            icon: fab fa-creative-commons-by
+            url: https://creativecommons.org/licenses/by/4.0/
+        Noncommercial:
+            icon: fab fa-creative-commons-nc
+            url: https://creativecommons.org/licenses/by-nc/4.0/
+search:
+    type: insight
+    index_pages: true
+comment:
+    type: disqus
+    shortname: 'astrahus'
+donates:
+    -
+        type: buymeacoffee
+        url: 'https://www.buymeacoffee.com/adbovenzo'
+        currency_code: BRL
+    
+share:
+    type: sharethis
+    install_url: 'https://platform-api.sharethis.com/js/sharethis.js#property=6392c2b965735e001232d82f&product=inline-share-buttons&source=platform'
+sidebar:
+    left:
+        sticky: false
+    right:
+        sticky: false
+widgets:
+    -
+        position: left
+        type: profile
+        author: Alisson Desandro Bovenzo
+        author_title: CTO e Lider Técnico
+        location: Brazil, SP
+        avatar: 
+        avatar_rounded: false
+        gravatar: 
+        follow_link: https://github.com/ppoffice
+        social_links:
+            Github:
+                icon: fab fa-github
+                url: https://github.com/ppoffice
+            Facebook:
+                icon: fab fa-facebook
+                url: https://facebook.com
+            Twitter:
+                icon: fab fa-twitter
+                url: https://twitter.com
+            Dribbble:
+                icon: fab fa-dribbble
+                url: https://dribbble.com
+            RSS:
+                icon: fas fa-rss
+                url: /rss
+    -
+        position: left
+        type: toc
+        index: true
+        collapsed: true
+        depth: 3
+    -
+        position: left
+        type: links
+        links:
+            Astrahus: https://astrahus.com.br
+            Instatistic: https://instatistic.astrahus.com.br
+    -
+        position: left
+        type: categories
+    -
+        position: right
+        type: recent_posts
+    -
+        position: right
+        type: archives
+    -
+        position: right
+        type: tags
+        order_by: name
+        amount: 6
+        show_count: true
+    # -
+    #     position: left
+    #     type: adsense
+    #     client_id: ''
+    #     slot_id: ''
+    -
+        position: left
+        type: followit
+        description: 
+        action_url: ''
+        verification_code: ''
+plugins:
+    animejs: true
+    back_to_top: true
+    baidu_analytics:
+        tracking_id: 
+    bing_webmaster:
+        tracking_id: 
+    busuanzi: false
+    cnzz:
+        id: 
+        web_id: 
+    cookie_consent:
+        type: info
+        theme: edgeless
+        static: false
+        position: bottom-left
+        policyLink: https://www.cookiesandyou.com/
+    gallery: true
+    google_analytics:
+        tracking_id: 
+    hotjar:
+        site_id: 
+    katex: false
+    mathjax: false
+    outdated_browser: false
+    progressbar: true
+    statcounter:
+        project: 
+        security: 
+    twitter_conversion_tracking:
+        pixel_id: 
+providers:
+    cdn: jsdelivr
+    fontcdn: google
+    iconcdn: fontawesome
