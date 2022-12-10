@@ -1,8 +1,8 @@
-title: Astrahus Tech Egineering
+title: Bovenzo | Tecnologia, Startups e MVP's 
 subtitle: Descomplicando soluções tecnológicas na criação de MVP e criação de produto de tecnologia
-description: A Astrahus descomplica tecnologias
+description: Falo sobre minhas experiências e aprendizados ao longo da minha carreira de desenvolvedor e sobre o que vi dando certo e errado em pequenas e grandes corporações
 keywords: startup, tecnologia, inovação, MVP
-author: Alisson Desandro Bovenzo
+author: Bovenzo, Alisson Desandro
 language: pt-BR
 timezone: 'America/Sao_Paulo'
 url: https://alissonbovenzo.github.io
@@ -14,12 +14,11 @@ pretty_urls:
 source_dir: source
 public_dir: public
 tag_dir: tags
-archive_dir: arquivos
-category_dir: categorias
+archive_dir: artigos
 code_dir: downloads/code
 i18n_dir: ':lang'
 skip_render: null
-new_post_name: 'Astrahus Tech Engineer | :title.md'
+new_post_name: 'Bovenzo | :title.md'
 default_layout: post
 titlecase: false
 external_link:
@@ -56,7 +55,8 @@ time_format: HH:mm:ss
 updated_option: mtime
 per_page: 10
 pagination_dir: page
-include: null
+include: 
+  - ./source/assets
 exclude: null
 ignore: null
 theme: icarus
@@ -64,3 +64,11 @@ deploy:
   type: git
   repo: https://github.com/alissonbovenzo/alissonbovenzo.github.io.git
   branch: [gh-pages]
+
+feed:
+  type: 
+    - atom
+    - rss2
+  path:
+    - atom.xml
+    - rss2.xml

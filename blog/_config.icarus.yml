@@ -22,7 +22,7 @@ head:
         image: 
         site_name: alissonbovenzo.github.io
         author: Alisson Desandro Bovenzo
-        description: 
+        description: Desevolvedor por mais de 10 anos, lider técnico há mais de 6 anos e atualmente CTO em startups brasileiras com rápido crescimento 
         twitter_card: 
         twitter_id: 
         twitter_site: 
@@ -39,7 +39,7 @@ head:
         image: 
     meta:
         - ''
-    rss: /rss
+    rss: /atom.xml
 navbar:
     menu:
         Home: /
@@ -162,8 +162,8 @@ widgets:
         position: left
         type: followit
         description: 
-        action_url: ''
-        verification_code: ''
+        action_url: 'https://api.follow.it/subscription-form/WldlMWhsUlBaOGhyeWtTZGNiSXhiU1FUT3gxN2ZCaVFyYVFjVTNNc01peiszT3pxUEZrSUdYZGxCOGFWY01USWpja0FaVUZQdHo0eHFScVdkcW40S1drczUxWEIxTVpvZXd5c2NwR0RxV2VjNkdnRmUzdnFxR1dXZ0w1L0NrMFp8TE9VV2duQ2IvWmxXQllkL21ZWXFsaVNmN1JOMDRqVVVMR0xvcVE2dTJBQT0=/8'
+        verification_code: 'TXece8g8QwNSLaJw1xUG'
 plugins:
     animejs: true
     back_to_top: true
