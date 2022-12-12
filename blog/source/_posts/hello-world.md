@@ -1,45 +1,29 @@
 ---
 title: Pensando no mundo
-tags: startup
-categories: startups
+tags: startup,
+categories: startups, webtools
 cover: /covers/1.svg
-# article:
-#     highlight:
-#         theme: atom-one-dark
+keywords: javascript para iniciantes, clean code
 
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+Bem vindos! Este é meu primeiro post aqui e quero que vocês saibam que caminho iremos trilhar juntos!
+Iremos falar desde a melhor linguagem de programação para jogos até duvidas e problemas técnicos que um desenvolvedor pode enfrentar no dia a dia e como podemos desbloquear usando soluções inteligentes! 
 
-### Create a new post
 
-``` bash
-$ hexo new "My New Post"
-```
+### Conteúdo simples e didático
+Iremos Passar por conteúdos dos mais diversos! Desde os conteúdos mais simples como por exemplo sobre *codigos javascript para iniciantes* até assuntos mais complexos como por exemplo *Design Patterns* e muito *clean code*
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+### Tire suas duvidas técnicas
 
-### Run server
+Durante nossa jornada, falaremos sobre alternativas elegantes para resolver problemas complexos de forma que o código se torne simples e eficiente
 
-``` bash
-$ hexo server
-```
+### Desmistificaremos a tecnologia!
 
-More info: [Server](https://hexo.io/docs/server.html)
+Vamos conversar sobre tudo que o mundo da tecnologia nos provê e vamos quebrar barreiras de conhecimento que não deveriam existir
 
-### Generate static files
 
-``` bash
-$ hexo generate
-```
 
-More info: [Generating](https://hexo.io/docs/generating.html)
+### Obrigado!
 
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+Se você me acompanhou até aqui, sinta-se livre para nos acompanhar pelo RSS usanando o widget do Follow IT ao lado!
