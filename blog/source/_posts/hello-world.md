@@ -1,6 +1,6 @@
 ---
 title: Pensando no mundo
-tags: startup,
+tags: startup, webtools
 categories: startups, webtools
 cover: /covers/1.svg
 keywords: javascript para iniciantes, clean code
@@ -25,5 +25,6 @@ Vamos conversar sobre tudo que o mundo da tecnologia nos provê e vamos quebrar 
 
 
 ### Obrigado!
+[Este Blog foi feito para você!](https://alissonbovenzo.github.io)
 
-Se você me acompanhou até aqui, sinta-se livre para nos acompanhar pelo RSS usanando o widget do Follow IT ao lado!
+Se você me acompanhou até aqui, considere para nos acompanhar pelo RSS usando o widget do Follow IT ao lado!
