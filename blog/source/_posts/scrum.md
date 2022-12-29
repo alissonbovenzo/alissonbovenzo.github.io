@@ -3,7 +3,7 @@ title: Desvendando os mistérios do SCRUM
 tags: scrum
 categories: scrum, scrum master, po, backlog, sprint
 cover: /covers/2.svg
-draft: true
+draft: false
 
 ---
 ## Um breve resumo
