@@ -1,6 +1,8 @@
 ---
 title: Pensando no mundo
-tags: startup; webtools
+tags:
+    - startup
+    - webtools
 categories: startups; webtools
 cover: /covers/1.svg
 keywords: javascript para iniciantes; clean code
