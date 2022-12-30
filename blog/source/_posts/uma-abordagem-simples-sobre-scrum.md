@@ -1,9 +1,10 @@
 ---
 title: Desvendando os mistérios do SCRUM
-tags: scrum, agile
-categories: scrum, scrum master, po, backlog, sprint
+tags: scrum; agile
+categories: scrum; scrum master; po; backlog; sprint
 cover: /covers/2.svg
-draft: false
+keywords: scrum; agile; beneficios do scrum; empresas se tornem bem sucedidas; P
+
 
 ---
 ## Um breve resumo
@@ -31,7 +32,7 @@ metodologia ágil Scrum é baseada em ciclos de trabalho curtos, chamados de "sp
 ### Principais elementos
 - **Equipe Scrum**: é composta por pessoas que trabalham juntas para entregar o produto. A equipe é altamente autônoma e cross-functional, o que significa que é responsável por todas as atividades necessárias para entregar o produto.
 
-- **Papéis Scrum**: são os papéis específicos que existem dentro de uma equipe Scrum. O papel mais importante é o do **_Scrum Master_**, que é responsável por garantir que a equipe siga as regras do Scrum e remova quaisquer obstáculos que possam impedir o progresso. Outros papéis incluem o **_Product Owner_**, que é responsável por definir o que deve ser entregue, e os **_Developers_**, que são os membros da equipe responsáveis por desenvolver o produto. É importante lembrar que nem sempre os times scrum são compostos apenas de desenvolvedores de software, também tempos outros profissionais que façam sentido para o desenrolar do processo da sprint, como por exemplo, podemos ter Designers de UI/UX, SRE's, QA's, dentre outros das mais diversas profissões existentes.
+- **Papéis Scrum**: são os papéis específicos que existem dentro de uma equipe Scrum. O papel mais importante é o do **_Scrum Master_**, que é responsável por garantir que a equipe siga as regras do Scrum e remova quaisquer obstáculos que possam impedir o progresso. Outros papéis incluem o **_Product Owner_**,também conhecido como **_P.O._** que é responsável por definir o que deve ser entregue, e os **_Developers_** ou apenas **_devs_**, que são os membros da equipe responsáveis por desenvolver o produto. É importante lembrar que nem sempre os times scrum são compostos apenas de desenvolvedores de software, também tempos outros profissionais que façam sentido para o desenrolar do processo da sprint, como por exemplo, podemos ter Designers de **_UI/UX_**, **_SRE's_**, **_QA's_**, dentre outros das mais diversas profissões existentes.
 
 - **Artefatos Scrum**: são os elementos tangíveis usados ​​durante o processo Scrum para ajudar a equipe a entregar o produto. Os principais artefatos são a **Backlog do Produto**, que é uma lista de tudo o que deve ser entregue, e o **_Sprint Backlog_**, que é uma lista de tarefas que a equipe planeja completar durante o sprint atual.
 
