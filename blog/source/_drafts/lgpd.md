@@ -1,7 +1,8 @@
 ---
 title: Qual o obetivo da LGPD?
 tags: LGPD
-categories: Direito Digital
+categories:
+    - Direito Digital
 cover: /covers/1.svg
 draft: true
 

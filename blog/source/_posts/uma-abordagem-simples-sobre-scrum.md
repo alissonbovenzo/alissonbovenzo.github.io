@@ -3,7 +3,11 @@ title: Desvendando os mistérios do SCRUM
 tags: scrum; agile
 categories: scrum; scrum master; po; backlog; sprint
 cover: /covers/2.svg
-keywords: scrum; agile; beneficios do scrum; empresas se tornem bem sucedidas; P
+keywords:
+    - scrum 
+    - agile
+    - beneficios do scrum
+    - empresas se tornem bem sucedidas
 
 
 ---
