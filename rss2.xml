@@ -9,7 +9,7 @@
     <atom:link href="https://alissonbovenzo.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Falo sobre minhas experiências e aprendizados ao longo da minha carreira de desenvolvedor e sobre o que vi dando certo e errado em pequenas e grandes corporações</description>
-    <pubDate>Fri, 30 Dec 2022 00:19:20 GMT</pubDate>
+    <pubDate>Fri, 30 Dec 2022 00:33:17 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -54,7 +54,9 @@
       <content:encoded><![CDATA[<p>Bem vindos! Este é meu primeiro post aqui e quero que vocês saibam que caminho iremos trilhar juntos!<br>Iremos falar desde a melhor linguagem de programação para jogos até duvidas e problemas técnicos que um desenvolvedor pode enfrentar no dia a dia e como podemos desbloquear usando soluções inteligentes! </p><h3 id="Conteudo-simples-e-didatico"><a href="#Conteudo-simples-e-didatico" class="headerlink" title="Conteúdo simples e didático"></a>Conteúdo simples e didático</h3><p>Iremos Passar por conteúdos dos mais diversos! Desde os conteúdos mais simples como por exemplo sobre <em>codigos javascript para iniciantes</em> até assuntos mais complexos como por exemplo <em>Design Patterns</em> e muito <em>clean code</em></p><h3 id="Tire-suas-duvidas-tecnicas"><a href="#Tire-suas-duvidas-tecnicas" class="headerlink" title="Tire suas duvidas técnicas"></a>Tire suas duvidas técnicas</h3><p>Durante nossa jornada, falaremos sobre alternativas elegantes para resolver problemas complexos de forma que o código se torne simples e eficiente</p><h3 id="Desmistificaremos-a-tecnologia"><a href="#Desmistificaremos-a-tecnologia" class="headerlink" title="Desmistificaremos a tecnologia!"></a>Desmistificaremos a tecnologia!</h3><p>Vamos conversar sobre tudo que o mundo da tecnologia nos provê e vamos quebrar barreiras de conhecimento que não deveriam existir</p><h3 id="Obrigado"><a href="#Obrigado" class="headerlink" title="Obrigado!"></a>Obrigado!</h3><p><a href="https://alissonbovenzo.github.io/">Este Blog foi feito para você!</a></p><p>Se você me acompanhou até aqui, considere para nos acompanhar pelo RSS usando o widget do Follow IT ao lado!</p>]]></content:encoded>
       
       
-      <category domain="https://alissonbovenzo.github.io/categories/startups-webtools/">startups; webtools</category>
+      <category domain="https://alissonbovenzo.github.io/categories/startups/">startups</category>
+      
+      <category domain="https://alissonbovenzo.github.io/categories/startups/webtools/">webtools</category>
       
       
       <category domain="https://alissonbovenzo.github.io/tags/startup/">startup</category>
