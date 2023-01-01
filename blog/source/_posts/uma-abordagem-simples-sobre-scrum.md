@@ -19,18 +19,18 @@ A metodologia **_agile_** **_scrum_** é um dos métodos de desenvolvimento mais
 
 ### O que é scrum ? 
 
-A metodologia ágil Scrum é uma abordagem para o gerenciamento de projetos de software que se concentra em entregar valor para o cliente através da entrega contínua de pequenas partes do produto. Ela é baseada em um conjunto de valores, papéis, eventos, artefatos e regras definidas pelo framework Scrum.
+A metodologia ágil Scrum é uma abordagem para o gerenciamento de projetos de software que se concentra em entregar valor para o cliente através da entrega contínua de pequenas partes do produto. Ela é baseada em um conjunto de valores, papéis, eventos, artefatos e regras definidas pelo **_framework Scrum_**.
 
 ### Seu uso
 
-Scrum é usado principalmente em projetos de software, mas também pode ser aplicado a outras áreas, como gerenciamento de produtos, marketing e até mesmo finança
+Scrum é usado principalmente em projetos de _software_, mas também pode ser aplicado a outras áreas, como gerenciamento de produtos, marketing e até mesmo finança
 
 ### a grande chave do scrum
 O scrum é acima de tudo, **flexivel**. Você pode utilizar apenas partes do scrum em seu projeto, ou até mesmo coisas adicionais, modifique até fazer sentido para o seu negócio. O Scrum é uma metodologia ágil que visa aumentar a performance e entrega dos times em pequenos blocos constantes de valor. Trazendo assim valor agregado ao produto de uma forma mais **previsível**.
 
 ### Como funciona?
 
-metodologia ágil Scrum é baseada em ciclos de trabalho curtos, chamados de "sprints", que normalmente duram de duas a quatro semanas. Cada sprint começa com uma planejamento, seguida pelo desenvolvimento e teste do produto, e termina com uma revisão e uma demonstração do trabalho concluído para o cliente.
+metodologia ágil Scrum é baseada em ciclos de trabalho curtos, chamados de **_sprints_**, que normalmente duram de duas a quatro semanas. Cada **_sprint_** começa com uma planejamento, seguida pelo desenvolvimento e teste do produto, e termina com uma revisão e uma demonstração do trabalho concluído para o cliente.
 
 
 ### Principais elementos
@@ -38,9 +38,9 @@ metodologia ágil Scrum é baseada em ciclos de trabalho curtos, chamados de "sp
 
 - **Papéis Scrum**: são os papéis específicos que existem dentro de uma equipe Scrum. O papel mais importante é o do **_Scrum Master_**, que é responsável por garantir que a equipe siga as regras do Scrum e remova quaisquer obstáculos que possam impedir o progresso. Outros papéis incluem o **_Product Owner_**,também conhecido como **_P.O._** que é responsável por definir o que deve ser entregue, e os **_Developers_** ou apenas **_devs_**, que são os membros da equipe responsáveis por desenvolver o produto. É importante lembrar que nem sempre os times scrum são compostos apenas de desenvolvedores de software, também tempos outros profissionais que façam sentido para o desenrolar do processo da sprint, como por exemplo, podemos ter Designers de **_UI/UX_**, **_SRE's_**, **_QA's_**, dentre outros das mais diversas profissões existentes.
 
-- **Artefatos Scrum**: são os elementos tangíveis usados ​​durante o processo Scrum para ajudar a equipe a entregar o produto. Os principais artefatos são a **Backlog do Produto**, que é uma lista de tudo o que deve ser entregue, e o **_Sprint Backlog_**, que é uma lista de tarefas que a equipe planeja completar durante o sprint atual.
+- **Artefatos Scrum**: são os elementos tangíveis usados ​​durante o processo Scrum para ajudar a equipe a entregar o produto. Os principais artefatos são a **_Backlog_ do Produto**, que é uma lista de tudo o que deve ser entregue, e o **_Sprint Backlog_**, que é uma lista de tarefas que a equipe planeja completar durante o sprint atual.
 
-- Eventos Scrum(Também conhecido como cerimônias): são as reuniões regulares que ocorrem durante um sprint. Os principais eventos são a "Reunião de Planejamento do Sprint", a "Reunião Diária Scrum" conhecida também como _**Daily**_ e a "**Reunião de Revisão do **Sprint" que também é conhecida por **reunião de retrospectiva** ou simplesmente **Retrô**.
+- Eventos Scrum(Também conhecido como cerimônias): são as reuniões regulares que ocorrem durante um sprint. Os principais eventos são a **Reunião de Planejamento do Sprint**, a **Reunião Diária _Scrum_** conhecida também como **_Daily_** e a **Reunião de Revisão do Sprint** que também é conhecida por **reunião de retrospectiva** ou simplesmente **Retrô**.
 
 
 ### Conclusão

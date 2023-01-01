@@ -1,7 +1,11 @@
 title: Bovenzo | Tecnologia, Startups e MVP's 
 subtitle: Descomplicando soluções tecnológicas na criação de MVP e criação de produto de tecnologia
 description: Falo sobre minhas experiências e aprendizados ao longo da minha carreira de desenvolvedor e sobre o que vi dando certo e errado em pequenas e grandes corporações
-keywords: startup, tecnologia, inovação, MVP
+keywords:
+  - startup
+  - tecnologia
+  - inovação
+  - MVP
 author: Bovenzo, Alisson Desandro
 language: pt-BR
 timezone: 'America/Sao_Paulo'
